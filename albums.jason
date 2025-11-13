@@ -1,0 +1,18 @@
+[
+  {
+    "albumName": "Chill Hits",
+    "coverUrl": "https://i.imgur.com/1qJzZ8f.jpg",
+    "songs": [
+      {"title": "Relaxing Beat", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"},
+      {"title": "Calm Waves", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"}
+    ]
+  },
+  {
+    "albumName": "Pop Vibes",
+    "coverUrl": "https://i.imgur.com/FcJ3Lxk.jpg",
+    "songs": [
+      {"title": "Happy Tune", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"},
+      {"title": "Dance Beat", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"}
+    ]
+  }
+]
